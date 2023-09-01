@@ -1,6 +1,6 @@
-The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
+**Dynamic Styling Using Styled Components**.
 
-### Refer to the image below:
+### Output:
 
 <br/>
 <div style="text-align: center;">
